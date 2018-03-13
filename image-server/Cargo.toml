@@ -1,0 +1,11 @@
+[package]
+name = "image-server"
+version = "0.1.0"
+authors = ["avranju"]
+
+[dependencies]
+failure = "0.1"
+glib = "0.4"
+gstreamer = "0.10"
+gstreamer-app = "0.10"
+ws = "0.7.3"
