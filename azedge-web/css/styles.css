@@ -18,3 +18,18 @@
 #start-playback {
     margin-top: 4px;
 }
+
+.match-line-neutral {
+    border: none;
+    height: 5px;
+    width: 100%;
+    background-color: #fff;
+}
+
+.match-line-matched {
+    background-color: green;
+}
+
+.match-line-failed {
+    background-color: red;
+}
