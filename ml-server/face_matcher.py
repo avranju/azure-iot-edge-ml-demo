@@ -11,7 +11,7 @@ import os
 # the same face will return 0.0
 # different faces return higher numbers
 # this is NOT between 0.0 and 1.0
-FACE_MATCH_THRESHOLD = 1.2
+FACE_MATCH_THRESHOLD = 0.3
 
 
 # Run an inference on the passed image
